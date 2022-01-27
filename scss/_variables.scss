@@ -1,8 +1,8 @@
 
 ////////// COLOR SYSTEM //////////
 
-$blue:              #5E50F9;
-$indigo:            #6610f2;
+$blue:              #2C9205;
+$indigo:            #2C9205;
 $purple:            #6a008a;
 $pink:              #E91E63;
 $red:               #f96868;
@@ -41,7 +41,7 @@ $colors: (
 
 
 $theme-colors: (
-  primary:         #3c37f1,
+  primary:         #2C9205,
   secondary:       #1998ff,
   success:         #00d663,
   info:            #00b3ff,
@@ -55,7 +55,7 @@ $theme-gradient-colors: (
   primary:         linear-gradient(230deg, #759bff, #843cf6),
   secondary:       linear-gradient(to right, #e7ebf0, #868e96),
   success:         linear-gradient(45deg, #7bffce, #30c93e),
-  info:            linear-gradient(to bottom, #0e4cfd, #6a8eff),
+  info:            linear-gradient(to bottom, #2C9205, #6a8eff),
   warning:         linear-gradient(135deg, #ffc480, #ff763b),
   danger:          linear-gradient(316deg, #fc5286, #fbaaa2),
   light:           linear-gradient(to right, #cfd9df 0%, #e2ebf0 100%),
@@ -102,7 +102,7 @@ $toggle-switch-bg: #ccc;
 
 
  ////HEADER//////
- $header-bg:url("../images/banner-bg.svg");
+ $header-bg:url("../images/bg.svg");
  $header-color:#fff;
  $nav-link-color:#fff;
  $nav-link-hover-color:#fff;
@@ -130,7 +130,7 @@ $grid-gutter-width: 28px;
 $action-transition-duration: 0.25s;
 $action-transition-timing-function: ease;
 
-$testimonial-bg:#a70ff6 url("../images/testimonial-bg.svg");
+$testimonial-bg:#2C9205 url("../images/testimonial-bg.svg");
 $testimonial-nav-color:#d8d8d8;
 
 $input-padding-y: 1.25rem;

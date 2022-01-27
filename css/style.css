@@ -18425,7 +18425,7 @@ h6, .h6 {
 .navbar {
   width: 100%;
   padding: 1.875rem 1rem;
-  background: #3c37f1;
+  background: #2C9205;
 }
 
 @media (max-width: 991px) {
@@ -18618,7 +18618,7 @@ html {
 }
 
 .home {
-  background: url("../images/banner-bg.svg");
+  background: url("../images/bg.svg");
   background-repeat-y: no-repeat;
   background-position: 0 -50px;
   padding-top: 103px;
@@ -18696,7 +18696,7 @@ section {
 }
 
 .testimonial {
-  background: #a70ff6 url("../images/testimonial-bg.svg");
+  background: #a70ff6 url("../images/t-bg.svg");
   padding: 100px 0 70px 0;
   background-size: cover;
 }
